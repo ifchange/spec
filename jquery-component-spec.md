@@ -4,8 +4,8 @@
 2. 代码模板采用兼容AMD的模式 
   * https://github.com/umdjs/umd/blob/master/jqueryPlugin.js
   * https://github.com/jquery-boilerplate/jquery-patterns/blob/master/patterns/jquery.basic.plugin-boilerplate.js
-
 3. 文件头部加上完整注释
+
   ```
   /*
    * Macro Polo
@@ -24,7 +24,6 @@
     content: '',    // 内容
   }
   ```
-  
 6. 参数中如果有事件绑定配置，必须是以on开头的驼峰命名，如`onXxx`
 7. 确保组件返回的是jquery对象
 8. 插件前缀统一用ic前缀，如`$.fn.icDialog`, `$.fn.icTooltip`
@@ -35,10 +34,10 @@
 13. 一些建议
   * 多利用`data()`方法/html5的data属性来实现一些数据缓存等
   * jquery的dom元素一律以$开始，如`$input`
-  * 私有属性和方法一律下划线开始
+  * 私有属性和方法一律下划线开始，如`this._privateMethod`
   * 一些公共属性
-    * `this.$element`调用元素
-    * `this.options`组件配置
+    * `this.$element`组件主调元素
+    * `this.options`组件配置参数
 
 **参考资料**
 * http://learn.jquery.com/plugins/
