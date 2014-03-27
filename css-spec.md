@@ -1,8 +1,7 @@
-# 编写如一、符合习惯的CSS的原则
+# CSS编码规范 (1.1)
 
+## 简介
 以下文档将概述一个合理的CSS开发风格指导。本指导文件强烈鼓励开发者使用已经存在了的、常见的、合力的文风。您应该有选择地吸纳一些内容来创造您自己的风格指南。
-
-这个文档将持续更新，欢迎提出新的想法。还请多多贡献。
 
 [Principles of writing consistent, idiomatic CSS（原版）](https://github.com/necolas/idiomatic-css)
 
