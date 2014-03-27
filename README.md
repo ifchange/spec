@@ -12,5 +12,8 @@
 - 逸橙JS组件开发规范
 - [jQuery组件开发规范](https://github.com/ifchange/spec/blob/master/jquery-component-spec.md)
 
+## 前端UI插件版本说明
+- [UI插件说明]（https://github.com/ifchange/spec/blob/master/widget-description.md）
+
 ## 前端HTML组件库
 - todo...
