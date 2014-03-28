@@ -346,12 +346,3 @@ html文件和css文件中的代码，尽量采用一致的命名规则。
 可以为生产环境准备好带有版本号的代码。在这里我推荐一下[grunt](https://github.com/cowboy/grunt)这个工具，我感觉它很不错。
 
 
-<a name="acknowledgements"></a>
-## 致谢
-
-感谢所有对[idiomatic.js](https://github.com/rwldrn/idiomatic.js)作出贡献的网友。
-
-##许可
-_Principles of writing consistent, idiomatic CSS_ 是Nicolas Gallagher发布在[Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)许可证下的作品。该许可证适用于本代码栈中的所有文档，包括翻译文本。
-
-本作品基于[github.com/necolas/idiomatic-css](https://github.com/necolas/idiomatic-css)著就。
