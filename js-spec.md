@@ -72,9 +72,7 @@ function setStyle(element, property, value) {
 
 对于`if...else...`、`try...catch...finially`、`do...while`等语句，我们 *推荐(RECOMMENDED)* 使用 **在}号后添加一个换行** 的风格，使代码层次结构更清晰，阅读性更好。
 
-```javascript
-
- *可以(MAY)* 使用符合[Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/codeconv-138413.html)的换行风格。
+*可以(MAY)* 使用符合[Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/codeconv-138413.html)的换行风格。
 
 ```javascript
 if (condition) {
@@ -357,7 +355,7 @@ var array = [
 
 ### 字符串
 
-字符串的起始和结束 *必须(MUST)* 使用单引号`'`。
+字符串的起始和结束 *必须(MUST)* 使用单引号`'`，字符串中如果有单引号，可以使用`\`进行转义显示，如`var str = 'I\'m Tom!'`
 
 ### 对象、数组和正则
 
