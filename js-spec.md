@@ -73,27 +73,8 @@ function setStyle(element, property, value) {
 对于`if...else...`、`try...catch...finially`、`do...while`等语句，我们 *推荐(RECOMMENDED)* 使用 **在}号后添加一个换行** 的风格，使代码层次结构更清晰，阅读性更好。
 
 ```javascript
-if (condition) {
-    // some statements;
-}
-else {
-    // some statements;
-}
 
-try {
-    // some statements;
-}
-catch (ex) {
-    // some statements;
-}
-
-do {
-    // some statements;
-}
-while (condition);
-```
-
-也 *可以(MAY)* 使用符合[Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/codeconv-138413.html)的换行风格。
+ *可以(MAY)* 使用符合[Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/codeconv-138413.html)的换行风格。
 
 ```javascript
 if (condition) {
