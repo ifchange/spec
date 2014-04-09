@@ -184,15 +184,6 @@ tr标签 *必须(MUST)* 位于tbody、thead、tfoot标签中， *不得(MUST NOT
 
 *不得(MUST NOT)* 为鼠标手样式使用href="javascript:void(0)"的a标签。应采用CSS的cursor:pointer。
 
-### 布局
-
-布局 *必须(MUST)* 使用流式布局（常说的div+css）， *避免(MUST NOT)* 使用table嵌套进行布局。
-
-布局 *需(SHALL)* 考虑浏览器显示区域最小宽度为980px。
-
-### 清除浮动
-
-*尽量(REQUIRED)* 通过:after＋zoom的方式清除浮动。 *尽量不(SHOULD NOT)* 引入额外的无意义标签。
 
 ### 表单
 
