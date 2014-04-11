@@ -158,7 +158,7 @@ _util.argumentsToArray(arguments [,start, end]);_
 
 # Widget
 
-wiget 是一个工厂方法，根据传入的配置用来返回每个组件的构造函数；接受两个参数：组件名、组件配置
+widget 是一个工厂方法，根据传入的配置用来返回每个组件的构造函数；接受两个参数：组件名、组件配置
 
 由widget 返回的构造函数，其 prototype 上已经以下几个通用接口：
     
