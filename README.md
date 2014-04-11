@@ -9,7 +9,7 @@
 - [HTML编码规范](https://github.com/ifchange/spec/blob/master/html-spec.md)
 
 ## 组件开发规范
-- 逸橙JS组件开发规范
+- [逸橙JS组件开发规范](https://github.com/ifchange/spec/blob/master/js-widget-spec.md)
 - [jQuery组件开发规范](https://github.com/ifchange/spec/blob/master/jquery-component-spec.md)
 
 ## UI插件版本说明
