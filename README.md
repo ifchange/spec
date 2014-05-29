@@ -1,7 +1,7 @@
 # 逸橙前端开发规范
 
 ## 命名规范
-- 文件/文档命名规范
+- [文件/URL命名规范](https://github.com/ifchange/spec/blob/master/file-url-spec.md)
 
 ## 代码开发规范
 - [Javascript编码规范](https://github.com/ifchange/spec/blob/master/js-spec.md)
